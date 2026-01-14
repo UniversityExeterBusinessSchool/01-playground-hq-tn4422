@@ -1,5 +1,5 @@
 structures/student_XX_structure.md
-# My Structure - Student XX
+# My Structure - Student 02
 
 ## What I See in My Data
 [Describe the codes, letters, numbers]
